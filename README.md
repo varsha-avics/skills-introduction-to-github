@@ -1,5 +1,7 @@
 # Introduction to GitHub
 
+#Test comments added
+
 <!-- ![](https://github.com/varsha-avics/skills-introduction-to-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/varsha-avics/skills-introduction-to-github/actions/workflows/1-create-a-branch.yml/badge.svg)
 ![](https://github.com/varsha-avics/skills-introduction-to-github/actions/workflows/2-commit-a-file.yml/badge.svg)
